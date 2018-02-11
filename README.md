@@ -9,17 +9,17 @@ Olaf can interpret and execute command line arguments read from the standard inp
 ## Usage
 All the files are to be compiled on an Ubuntu 14.04 LTS machine with:    
 ```
-gcc -Wall -Werror -Wextra -pedantic *.c -o olaf
+$ gcc -Wall -Werror -Wextra -pedantic *.c -o olaf
 ```  
   
 Once compiled, to start the program, run:    
 ```
-./olaf
+$ ./olaf
 ```  
   
 To exit the program, run:  
 ```
-Olaf $ exit
+$ Olaf $ exit
 ```  
   
 The Olaf shell supports most shell commands, such as ```cat```, ```pwd```, ```ls -la``` and more.  
