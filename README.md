@@ -13,10 +13,14 @@ gcc -Wall -Werror -Wextra -pedantic *.c -o olaf
 ```  
   
 Once compiled, to start the program, run:    
-```./olaf```  
+```
+./olaf
+```  
   
 To exit the program, run:  
-```Olaf $ exit```  
+```
+Olaf $ exit
+```  
   
 The Olaf shell supports most shell commands, such as ```cat```, ```pwd```, ```ls -la``` and more.  
 
