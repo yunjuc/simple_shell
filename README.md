@@ -54,5 +54,5 @@ Olaf shell will exit with status 0 unless status is specified with syntax ```exi
 |[check_built_ins](https://github.com/stvngrcia/simple_shell/blob/master/builtins.c) | Checks if a command exitst as a builtin funcition and then it returns a pointer to the right function.|
 
 ## Authors
-* [[Steven Garcia]](https://github.com/stvngrcia)
-* [[Yunju Chen]](https://github.com/yunjuc)
+* [Steven Garcia](https://github.com/stvngrcia)
+* [Yunju Chen](https://github.com/yunjuc)
